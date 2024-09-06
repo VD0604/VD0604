@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VD0604
+- 👋 Hi, I’m Varun
 - 👀 I’m interested in Cloud, Data, AI/ML, Web
-- 🌱 I’m currently learning Cloud, AI, MERN
+- 🌱 I’m currently learning Automation, Testing
